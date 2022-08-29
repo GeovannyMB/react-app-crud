@@ -1,0 +1,8 @@
+.card--container{
+    text-align: left;
+    border: solid 1px black;
+}
+
+.card--container:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,14 @@
+* {
+  margin: 10px;
+}
+
+.AppForm {
+  border: solid 1px black;
+  border-radius: 10px;
+}
+
+Form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
